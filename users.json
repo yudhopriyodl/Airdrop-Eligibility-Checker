@@ -1,0 +1,37 @@
+[
+  {
+    "id": "user1",
+    "token_balance": 150.5,
+    "transactions": 7,
+    "is_registered": true,
+    "last_transaction": "2025-05-20"
+  },
+  {
+    "id": "user2",
+    "token_balance": 80.0,
+    "transactions": 3,
+    "is_registered": true,
+    "last_transaction": "2025-05-15"
+  },
+  {
+    "id": "user3",
+    "token_balance": 200.0,
+    "transactions": 10,
+    "is_registered": false,
+    "last_transaction": "2025-04-01"
+  },
+  {
+    "id": "user4",
+    "token_balance": 120.0,
+    "transactions": 6,
+    "is_registered": true,
+    "last_transaction": "2025-03-01"
+  },
+  {
+    "id": "user5",
+    "token_balance": 50.0,
+    "transactions": 2,
+    "is_registered": false,
+    "last_transaction": "2025-05-22"
+  }
+]
